@@ -112,7 +112,7 @@ img {
 }
 
 /* --Mobile-- */
-/* @media screen and (max-width: 580px) {
+@media screen and (max-width: 580px) {
 	.container-header {
 		background: none;
 	}
@@ -153,7 +153,7 @@ img {
 }
 
 /* --Animations-- */
-/* @keyframes fadein {
+@keyframes fadein {
 	from {
 		opacity: 0;
 		transform: translateY(4rem);
@@ -172,4 +172,4 @@ img {
 		opacity: 1;
 		transform: translateY(0);
 	}
-} */
+}
