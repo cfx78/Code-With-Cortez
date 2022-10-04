@@ -37,7 +37,7 @@ li {
 }
 .nav-links {
 	display: flex;
-	justify-content: space-between;
+	/* justify-content: space-between; */
 }
 .container-header {
 	background-image: url(Images/backgroundImage.jpg);
@@ -87,7 +87,7 @@ li {
 
 thead {
 	position: absolute;
-	margin-bottom: 22rem;
+	margin-bottom: 25rem;
 	font-size: 2.8rem;
 }
 
@@ -95,7 +95,10 @@ table {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	border-collapse: separate;
+	border-spacing: 3rem;
 }
+
 img {
 	width: 20vw;
 	height: 20vw;
