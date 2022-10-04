@@ -37,7 +37,7 @@ li {
 }
 .nav-links {
 	display: flex;
-	/* justify-content: space-between; */
+	justify-content: space-between;
 }
 .container-header {
 	background-image: url(Images/backgroundImage.jpg);
